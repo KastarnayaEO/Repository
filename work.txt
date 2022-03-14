@@ -1,4 +1,9 @@
 Hello World
+<<<<<<< HEAD
 Hi
 Konnichiwa
 Привет
+=======
+Ohayo sekai
+Привет,мир!
+>>>>>>> branch1
